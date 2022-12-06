@@ -1,0 +1,153 @@
+/* Style for movemyphonedata.com */
+
+html {
+    --dark-blue: #000040;
+    --my-green: #138b38;
+    --dark-teal: #008080;
+}
+
+body {
+    font-family: 'Source Sans Pro', "Helvetica Neue", sans-serif;
+    font-size: large;
+    background-color: black;
+    color: #bbb;
+    margin: 0;
+}
+
+/* Top Bar and Intro */
+
+header {
+    font-family: 'Source Code Pro', monospace;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 32px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 300%;
+    color: var(--my-green);
+    background-color: var(--dark-blue);
+}
+
+.button {
+    text-align: center;
+    border-radius: 5px 5px;
+    background-color: #FFFFFF80;
+    color: black;
+}
+
+#to-guide {
+    text-align: center;
+    margin-left: 32px;
+}
+
+.intro {
+    font-size: 110%;
+    text-align: center;
+}
+
+select {
+    background-color: #138b3820;
+    color: white;
+    font-weight: inherit;
+    font-size: inherit;
+    border: #00000000;
+    border-radius: 5px 5px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.selector {
+    font-weight: bolder;
+    font-size: 150%;
+    text-align: center;
+}
+
+/* Image Layout and Delimiters */
+
+hr {
+    border-color: #404040;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+    margin: auto;
+}
+
+.column {
+    flex: auto;
+    padding: 4px;
+}
+
+img {
+    width: 100%;
+}
+
+/* Main Body Styling */
+
+em {
+    color: white;
+}
+
+a {
+    color: var(--my-green);
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Source Code Pro', monospace;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+h2 {
+    font-family: 'Source Code Pro', monospace;
+    background-color: var(--dark-teal);
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 48px;
+    font-size: 150%;
+}
+
+p, ul, h3 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+ul ul {
+    margin-left: auto;
+}
+
+li {
+    line-height: 150%;
+}
+
+.tombstone {
+    font-family: 'Source Code Pro', monospace;
+    background-color: black;
+    color: var(--my-green);
+}
+
+/* Bottom of Page */
+
+footer {
+    font-family: 'Source Code Pro', monospace;
+    position: relative;
+    font-size: 150%;
+    bottom: 0;
+    margin: 0;
+    background-color: var(--dark-blue);
+    color: var(--my-green);
+    text-align: right;
+}
+
+.postscript {
+    font-size: 75%;
+}
