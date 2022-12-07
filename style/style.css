@@ -134,6 +134,7 @@ li {
     line-height: 150%;
     list-style-type: square;
     list-style-position: outside;
+    margin-left: 20%;
 }
 
 .tombstone {
