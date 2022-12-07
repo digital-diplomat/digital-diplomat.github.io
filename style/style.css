@@ -121,13 +121,13 @@ h2 {
     font-size: 150%;
 }
 
-p, ul, h3 {
+p, h3 {
     margin-left: 10%;
     margin-right: 10%;
 }
 
 ul {
-    margin-left: 10%;
+    margin-left: 0%;
 }
 
 li {
