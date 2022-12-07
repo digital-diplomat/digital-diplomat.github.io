@@ -22,7 +22,7 @@ body {
 /* Top Bar and Intro */
 
 header {
-    font-family: 'Meslo LG', monospace;
+    font-family: MesloLGS, monospace;
     position: relative;
     width: 100%;
     margin: 0;
@@ -102,7 +102,7 @@ a {
 }
 
 h1 {
-    font-family: 'Meslo LG', monospace;
+    font-family: MesloLGS, monospace;
     position: relative;
     width: 100%;
     margin: 0;
@@ -112,7 +112,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Meslo LG', monospace;
+    font-family: MesloLGS, monospace;
     background-color: var(--dark-teal);
     position: relative;
     margin-left: 5%;
@@ -135,7 +135,7 @@ li {
 }
 
 .tombstone {
-    font-family: 'Meslo LG', monospace;
+    font-family: MesloLGS, monospace;
     background-color: black;
     color: var(--my-green);
 }
@@ -143,7 +143,7 @@ li {
 /* Bottom of Page */
 
 footer {
-    font-family: 'Meslo LG', monospace;
+    font-family: MesloLGS, monospace;
     position: relative;
     font-size: 150%;
     bottom: 0;
