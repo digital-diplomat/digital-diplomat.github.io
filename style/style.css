@@ -1,6 +1,9 @@
 /* Style originally for movemyphonedata.com */
 
 html {
+    min-height: 100%;
+    
+    /* Color Vars */
     --dark-blue: #000040;
     --my-green: #138b38;
     --dark-teal: #008080;
@@ -144,7 +147,7 @@ li {
 
 footer {
     font-family: MesloLGS, monospace;
-    position: relative;
+    position: absolute;
     font-size: 200%;
     bottom: 0;
     margin: 0;
