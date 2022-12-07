@@ -8,7 +8,7 @@ html {
 
 @font-face {
     font-family: MesloLGS;
-    src: url("Meslo LG v1.2.1/MesloLGS-Regular.ttf");
+    src: url(https://github.com/digital-diplomat/digital-diplomat.github.io/raw/main/style/MesloLG/MesloLGS-Regular.ttf);
 }
 
 body {
