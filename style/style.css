@@ -30,7 +30,7 @@ header {
     padding: 16px;
     text-align: center;
     font-weight: bold;
-    font-size: 300%;
+    font-size: 200%;
     color: var(--my-green);
     background-color: var(--dark-blue);
 }
@@ -119,7 +119,7 @@ h2 {
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 48px;
-    font-size: 300%;
+    font-size: 200%;
 }
 
 p, ul, h3 {
@@ -145,7 +145,7 @@ li {
 footer {
     font-family: MesloLGS, monospace;
     position: relative;
-    font-size: 300%;
+    font-size: 200%;
     bottom: 0;
     margin: 0;
     background-color: var(--dark-blue);
