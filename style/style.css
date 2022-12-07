@@ -152,6 +152,7 @@ footer {
     min-width: 100%;
     bottom: 0;
     margin: 0;
+    padding: 16px;
     background-color: var(--dark-blue);
     color: var(--my-green);
     text-align: right;
