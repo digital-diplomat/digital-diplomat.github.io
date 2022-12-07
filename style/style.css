@@ -126,12 +126,13 @@ p, ul, h3 {
     margin-right: 10%;
 }
 
-ul ul {
+ul {
     margin-left: auto;
 }
 
 li {
     line-height: 150%;
+    list-style-type: square;
 }
 
 .tombstone {
