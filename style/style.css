@@ -72,7 +72,7 @@ select {
 /* Image Layout and Delimiters */
 
 hr {
-    border-color: #404040;
+    border-top: 2px dashed #404040;
 }
 
 .row {
