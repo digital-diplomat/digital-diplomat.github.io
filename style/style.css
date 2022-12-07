@@ -27,6 +27,7 @@ header {
     width: 100%;
     margin: 0;
     margin-bottom: 32px;
+    padding: 16px;
     text-align: center;
     font-weight: bold;
     font-size: 300%;
@@ -108,7 +109,7 @@ h1 {
     margin: 0;
     text-align: center;
     font-weight: bold;
-    font-size: 200%;
+    font-size: 300%;
 }
 
 h2 {
@@ -118,7 +119,7 @@ h2 {
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 48px;
-    font-size: 150%;
+    font-size: 300%;
 }
 
 p, ul, h3 {
@@ -144,7 +145,7 @@ li {
 footer {
     font-family: MesloLGS, monospace;
     position: relative;
-    font-size: 150%;
+    font-size: 300%;
     bottom: 0;
     margin: 0;
     background-color: var(--dark-blue);
