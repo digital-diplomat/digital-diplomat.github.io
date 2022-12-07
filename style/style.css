@@ -1,4 +1,4 @@
-/* Style for movemyphonedata.com */
+/* Style originally for movemyphonedata.com */
 
 html {
     --dark-blue: #000040;
@@ -17,7 +17,7 @@ body {
 /* Top Bar and Intro */
 
 header {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Meslo LG', monospace;
     position: relative;
     width: 100%;
     margin: 0;
@@ -97,7 +97,7 @@ a {
 }
 
 h1 {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Meslo LG', monospace;
     position: relative;
     width: 100%;
     margin: 0;
@@ -107,7 +107,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Meslo LG', monospace;
     background-color: var(--dark-teal);
     position: relative;
     margin-left: 5%;
@@ -130,7 +130,7 @@ li {
 }
 
 .tombstone {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Meslo LG', monospace;
     background-color: black;
     color: var(--my-green);
 }
@@ -138,7 +138,7 @@ li {
 /* Bottom of Page */
 
 footer {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Meslo LG', monospace;
     position: relative;
     font-size: 150%;
     bottom: 0;
