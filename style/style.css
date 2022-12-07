@@ -133,6 +133,7 @@ ul {
 li {
     line-height: 150%;
     list-style-type: square;
+    list-style-position: inside;
 }
 
 .tombstone {
