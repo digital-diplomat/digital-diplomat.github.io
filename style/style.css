@@ -26,7 +26,9 @@ body {
 
 header {
     font-family: MesloLGS, monospace;
-    position: relative;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
     width: 100%;
     margin: 0;
     margin-bottom: 32px;
@@ -150,7 +152,8 @@ li {
 
 footer {
     font-family: MesloLGS, monospace;
-    position: absolute;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
     font-size: 200%;
     min-width: 100%;
     bottom: 0;
