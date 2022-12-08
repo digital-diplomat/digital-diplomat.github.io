@@ -51,11 +51,8 @@ hr {
 
 img {
     width: 15%;
+    height: fit-content;
     border: 8px;
-}
-
-.selfie {
-    float: right;
     margin-right: 10%;
 }
 
