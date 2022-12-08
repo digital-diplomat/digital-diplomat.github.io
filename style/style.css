@@ -2,7 +2,7 @@
 
 html {
     min-height: 100%;
-    
+
     /* Color Vars */
     --dark-blue: #000040;
     --my-green: #138b38;
@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    font-family: 'Source Sans Pro', "Helvetica Neue", sans-serif;
+    font-family: MesloLGS, "Helvetica Neue", sans-serif;
     font-size: large;
     background-color: black;
     color: #bbb;
