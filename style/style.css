@@ -49,6 +49,11 @@ hr {
     border: 1px dashed #404040;
 }
 
+img {
+    width: 25%;
+    border: 8px;
+}
+
 /* Main Body Styling */
 
 em {
