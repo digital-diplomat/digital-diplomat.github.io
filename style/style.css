@@ -152,8 +152,7 @@ li {
 
 footer {
     font-family: MesloLGS, monospace;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
+    position: fixed;
     font-size: 200%;
     min-width: 100%;
     bottom: 0;
