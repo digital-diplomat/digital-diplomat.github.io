@@ -27,8 +27,7 @@ body {
 header {
     font-family: MesloLGS, monospace;
     position: relative;
-    max-width: 100%;
-    min-width: 100%;
+    width: 100%;
     margin: 0;
     margin-bottom: 32px;
     padding: 16px;
