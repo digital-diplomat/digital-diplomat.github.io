@@ -39,6 +39,7 @@ header {
     font-size: 200%;
     color: var(--my-green);
     background-color: var(--dark-blue);
+    z-index: 100;
 }
 
 .button {
