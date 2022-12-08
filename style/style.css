@@ -54,6 +54,10 @@ img {
     border: 8px;
 }
 
+.selfie {
+    border-right: 64px;
+}
+
 /* Main Body Styling */
 
 em {
