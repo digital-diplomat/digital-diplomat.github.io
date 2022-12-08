@@ -52,10 +52,11 @@ hr {
 img {
     width: 15%;
     border: 8px;
+    float: right;
 }
 
 .selfie {
-    border-right: 64px;
+    right: 64px;
 }
 
 /* Main Body Styling */
