@@ -52,11 +52,11 @@ hr {
 img {
     width: 15%;
     border: 8px;
-    float: right;
 }
 
 .selfie {
-    right: 15%;
+    float: right;
+    margin-right: 10%;
 }
 
 /* Main Body Styling */
@@ -76,6 +76,7 @@ a {
 
 h1 {
     font-family: MesloLGS, monospace;
+    background-color: var(--dark-teal);
     position: relative;
     width: 100%;
     margin: 0;
