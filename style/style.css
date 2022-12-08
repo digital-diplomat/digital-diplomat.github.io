@@ -1,4 +1,4 @@
-/* Style originally for movemyphonedata.com */
+/* Style for my personal page */
 
 html {
     min-height: 100%;
@@ -147,6 +147,7 @@ li {
 
 footer {
     font-family: MesloLGS, monospace;
+    max-height: 64px !important;
     position: absolute;
     font-size: 200%;
     min-width: 90%;
