@@ -80,6 +80,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: aquamarine;
+}
+
 h1 {
     font-family: MesloLGS, monospace;
     background-color: var(--dark-teal);
