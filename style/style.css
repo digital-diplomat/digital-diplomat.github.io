@@ -64,10 +64,6 @@ hr {
     min-width: 100%;
 }
 
-em {
-    color: white;
-}
-
 .strike {
     text-decoration: line-through;
 }
@@ -105,6 +101,10 @@ p, ul, h3 {
     margin-right: 10%;
 }
 
+#footnotes {
+    margin-left: 2%;
+}
+
 li {
     line-height: 150%;
     list-style-type: square;
@@ -128,7 +128,7 @@ footer {
     bottom: 0;
     margin: 0;
     padding: 8px;
-    box-sizing: border-box;
+    box-sizing: border-box; /* Avoid window overflow from padding */
     background-color: var(--dark-blue);
     color: var(--my-green);
     text-align: right;
