@@ -108,6 +108,11 @@ p, ul, h3 {
     margin-right: 10%;
 }
 
+::marker {
+    color: var(--dark-teal);
+    font-size: 24px;
+  }
+
 #footnotes {
     margin-left: 2%;
 }
