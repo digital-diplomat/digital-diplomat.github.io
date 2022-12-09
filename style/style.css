@@ -49,7 +49,7 @@ hr {
     border: 1px dashed #404040;
 }
 
-img {
+.selfie {
     width: 15%;
     height: fit-content;
     border: 8px;
@@ -57,6 +57,12 @@ img {
 }
 
 /* Main Body Styling */
+
+.content {
+    display: flex;
+    flex-direction: row;
+    min-width: 100%;
+}
 
 em {
     color: white;
@@ -126,6 +132,10 @@ footer {
     background-color: var(--dark-blue);
     color: var(--my-green);
     text-align: right;
+    /* Flexbox settings */
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
 }
 
 footer > a > img { /* Logos */
@@ -136,7 +146,7 @@ footer > a > img { /* Logos */
     margin-right: 8px;
 }
 
-.cczero {
+#cczero {
     border-style: none;
     margin-left: 40px;
     margin-right: 40px;
