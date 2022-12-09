@@ -17,7 +17,8 @@ html {
 body {
     font-family: MesloLGS, "Helvetica Neue", sans-serif;
     font-size: large;
-    background-color: black;
+    background: black;
+    background: linear-gradient(45deg, black 0%, #002010 100%);
     color: #bbb;
     margin: 0;
     padding-bottom: 128px;
