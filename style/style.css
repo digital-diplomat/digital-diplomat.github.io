@@ -51,7 +51,7 @@ hr {
 
 .selfie {
     max-width: 15%;
-    height: auto;
+    object-fit: contain;
     border: 8px;
     margin-right: 10%;
 }
@@ -141,8 +141,9 @@ footer {
 }
 
 footer > a > img { /* Logos */
-    max-height: 48px;
+    height: 48px;
     width: auto;
+    object-fit: contain;
     margin: auto;
     margin-left: 8px;
     margin-right: 8px;
