@@ -60,7 +60,7 @@ hr {
 /* Main Body Styling */
 
 .content {
-    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+    display: -webkit-flex;
     display: flex;
     flex-direction: row;
     min-width: 100%;
@@ -85,8 +85,7 @@ a:hover {
 }
 
 a > img:hover {
-    filter: brightness(60%);
-    -webkit-filter: brightness(60%);
+    opacity: 60%;
 }
 
 h1 {
