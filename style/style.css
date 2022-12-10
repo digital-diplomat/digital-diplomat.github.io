@@ -50,7 +50,7 @@ hr {
     border: 1px dashed #404040;
 }
 
-.selfie {
+#selfie {
     max-width: 15%;
     object-fit: contain;
     border: 8px;
