@@ -86,6 +86,7 @@ a:hover {
 
 a > img:hover {
     filter: brightness(60%);
+    -webkit-filter: brightness(60%);
 }
 
 h1 {
