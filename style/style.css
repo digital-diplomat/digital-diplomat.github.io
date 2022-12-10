@@ -84,6 +84,10 @@ a:hover {
     color: aquamarine;
 }
 
+a > img:hover {
+    filter: brightness(60%);
+}
+
 h1 {
     font-family: MesloLGS, monospace;
     background-color: var(--dark-teal);
