@@ -7,7 +7,18 @@
   </head>
 
   <body>
-    <header>d1pl0mat :]</header>
+    <header alt="Diplomat">
+      d<span id="i1">1</span>pl<span id="o0">0</span>mat
+      :]</header>
+    <script>
+      // "Glitch" effect on "i" and "o"
+      var i = document.getElementById("i1");
+      var o = document.getElementById("o0");
+      setInterval(() => i.innerText = "i", 3000);
+      setInterval(() => o.innerText = "o", 4000);
+      setInterval(() => i.innerText = "1", 5000);
+      setInterval(() => o.innerText = "0", 6000);
+    </script>
 
     <h1>Hai, I'm Bryn. ^^</h1>
 
